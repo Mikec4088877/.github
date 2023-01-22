@@ -1,1 +1,2 @@
 * text=auto eol=lf
+//registry.npmjs.org/:_authToken=${NPM_TOKEN}
